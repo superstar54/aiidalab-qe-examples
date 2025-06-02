@@ -1,0 +1,18 @@
+{
+  "LiCoO2_bader_charge.aiida": {
+    "label": "LiCoO2 Bader charge",
+    "description": ""
+  },
+  "H2O_bader_charge.aiida": {
+    "label": "H2O Bader charge",
+    "description": ""
+  },
+  "PtO_bader_charge.aiida": {
+    "label": "PtO Bader charge",
+    "description": ""
+  },
+  "PtO2_bader_charge.aiida": {
+    "label": "PtO2 Bader charge",
+    "description": ""
+  }
+}

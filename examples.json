@@ -1,0 +1,54 @@
+{
+  "CoO_FM_without_U.aiida": {
+    "label": "CoO FM PDOS without U (Ferromagnetism & DFT+U in-app guide)",
+    "description": ""
+  },
+  "CoO_FM_with_U.aiida": {
+    "label": "CoO FM PDOS with U (Ferromagnetism & DFT+U in-app guide)",
+    "description": ""
+  },
+  "CoO_AFM_without_U.aiida": {
+    "label": "CoO AFM PDOS without U (Antiferromagnetism in-app guide)",
+    "description": ""
+  },
+  "CoO_AFM_with_U.aiida": {
+    "label": "CoO AFM PDOS with U (Antiferromagnetism in-app guide)",
+    "description": ""
+  },
+  "Si2.aiida": {
+    "label": "Silicon [relax: atoms+cell, balanced protocol] → bands, pdos",
+    "description": ""
+  },
+  "InAs_1.aiida": {
+    "label": "InAs [relax: atoms+cell, balanced protocol] → bands, pdos",
+    "description": ""
+  },
+  "Cu_1.aiida": {
+    "label": "Cu [relax: atoms+cell, balanced protocol] → bands, pdos",
+    "description": ""
+  },
+  "InAs_2.aiida": {
+    "label": "InAs [relax: atoms+cell, balanced protocol, spin-orbit coupling] → bands, pdos",
+    "description": ""
+  },
+  "Cu_2.aiida": {
+    "label": "Cu [relax: atoms+cell, balanced protocol, spin-orbit coupling] → bands, pdos",
+    "description": ""
+  },
+  "LiCoO2.aiida": {
+    "label": "LiCoO2 [unrelaxed, balanced protocol] → bands, pdos",
+    "description": ""
+  },
+  "Iron_1.aiida": {
+    "label": "FM BCC Fe2 [relax: atoms+cell, balanced protocol, magnetic] → bands, pdos",
+    "description": ""
+  },
+  "Benzene.aiida": {
+    "label": "C6H6 [relax: atoms only, balanced protocol] → pdos",
+    "description": ""
+  },
+  "BN.aiida": {
+    "label": "2d-hBN [unrelaxed, balanced protocol] → bands, pdos",
+    "description": ""
+  }
+}
